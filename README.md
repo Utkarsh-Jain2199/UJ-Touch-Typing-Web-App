@@ -58,7 +58,7 @@ To install and run the Touch Typing Web App locally, follow these steps:
 
 5. Open your web browser and visit `http://localhost:3000` to access the app.
 
-** Also you can visit here: https://uj-touch-typing-web-app.vercel.app/ [Deployed on Vercel] **
+**Also you can visit here: https://uj-touch-typing-web-app.vercel.app/ [Deployed on Vercel]**
 ## Usage
 
 Once the app is running, you can start using the touch typing web app with the following steps:

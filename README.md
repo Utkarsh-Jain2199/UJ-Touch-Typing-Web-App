@@ -1,6 +1,6 @@
 # UJ-Touch-Typing-Web-App
 
-This is a touch typing web app built using React JS. It provides users with a platform to practice and improve their typing skills by offering various typing exercises and interactive features. The app utilizes the capabilities of React JS to create a seamless and engaging typing experience.
+This is a touch typing web app built using React JS. It provides users with a platform to practice and improve their typing skills by offering timer-based customizable typing exercises and interactive features. The app utilizes the capabilities of React JS to create a seamless and engaging typing experience.
 
 ## Features
 

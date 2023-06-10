@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ed6147e.css",
+    "main.js": "/static/js/main.441c0c2e.js",
+    "static/js/787.f24e4dce.chunk.js": "/static/js/787.f24e4dce.chunk.js",
+    "static/media/Julietta-Messie.otf": "/static/media/Julietta-Messie.960240645ccfe96d221b.otf",
+    "static/media/soundPlay.mp3": "/static/media/soundPlay.69bed42fb949b9a2a631.mp3",
+    "static/media/mail.png": "/static/media/mail.69b7cf230003c361ecdb.png",
+    "static/media/spacebar.mp3": "/static/media/spacebar.24d7a50e62d2acbded9b.mp3",
+    "static/media/linkedin.png": "/static/media/linkedin.9a1a7f8162140e296345.png",
+    "index.html": "/index.html",
+    "main.0ed6147e.css.map": "/static/css/main.0ed6147e.css.map",
+    "main.441c0c2e.js.map": "/static/js/main.441c0c2e.js.map",
+    "787.f24e4dce.chunk.js.map": "/static/js/787.f24e4dce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed6147e.css",
+    "static/js/main.441c0c2e.js"
+  ]
+}
